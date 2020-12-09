@@ -1,1 +1,2 @@
-this is a sample txt file in A branch.
+this is a sample txt file in A branch, yes agree from branch B.
+Hello again, from branch B
