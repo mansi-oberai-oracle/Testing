@@ -1,1 +1,2 @@
 hello I'm the master
+hi from B
